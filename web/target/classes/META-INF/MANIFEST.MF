@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: HP STORM 28 1
+Build-Jdk: 11.0.5
+Implementation-Title: web
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: academy.learnprogramming
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/guess-the-number-game/web
+Created-By: Maven Integration for Eclipse
+
